@@ -1,0 +1,15 @@
+{
+  "name": "covid-vaccine-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "execute": "node executing-phantom.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "es6-promise": "^4.2.8"
+  }
+}
